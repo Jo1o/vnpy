@@ -24,13 +24,13 @@ SETTINGS: dict = {
     "email.sender": "",
     "email.receiver": "",
 
-    "datafeed.name": "",
-    "datafeed.username": "",
-    "datafeed.password": "",
+    "datafeed.name": "xt",
+    "datafeed.username": "token",
+    "datafeed.password": "319733dd62c87010e5fe61c0aacedf9d70ccdbe0",
 
     "database.timezone": get_localzone_name(),
     "database.name": "mysql",
-    "database.database": "vnpy",
+    "database.database": "nvpy",
     "database.host": "127.0.0.1",
     "database.port": 3306,
     "database.user": "root",
