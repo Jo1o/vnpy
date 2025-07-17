@@ -45,6 +45,14 @@ dependencies = [
     "vnpy-mysql>=1.1.1",
     "vnpy-sqlite>=1.0.0",
     "vnpy-rqdata>=3.1.4.1",
+    "tushare>=1.4.21",
+    "polars>=1.31.0",
+    "scipy>=1.15.3",
+    "alphalens-reloaded>=0.4.6",
+    "scikit-learn>=1.7.0",
+    "lightgbm>=4.6.0",
+    "torch>=2.7.1",
+    "pyarrow>=20.0.0",
 ]
 keywords = ["quant", "quantitative", "investment", "trading", "algotrading"]
 
